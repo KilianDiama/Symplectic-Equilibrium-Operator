@@ -1,4 +1,4 @@
-# Disruptive Symplectic Equilibrium Operator v2
+#  Symplectic Equilibrium Operator v2
 
 A research-oriented deep learning architecture combining:
 
