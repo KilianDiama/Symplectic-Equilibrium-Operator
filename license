@@ -1,0 +1,120 @@
+# ECO-AGENT APEX PROTOCOL LICENSE (EAP-L v1.0.2026)
+
+## 1. GRANT OF RIGHTS
+
+This License governs the use, modification, and distribution of the software **AutonomousRDAgent** (“the Software”).
+
+### 1.1 Personal & Educational Use
+
+A perpetual, worldwide, royalty-free license is granted for any non-commercial use, including:
+
+* Academic research
+* Personal experimentation
+* Educational purposes
+* Non-commercial prototyping
+
+### 1.2 Commercial Use
+
+Any direct or indirect revenue-generating use of the Software is subject to the **Ethical Royalty Scale (ERS)** defined below.
+
+---
+
+## 2. ETHICAL ROYALTY SCALE (ERS)
+
+Commercial users must self-assess their usage category and apply the corresponding royalty rate on gross revenue derived from the Software:
+
+### Tier α — Beneficial (8%)
+
+Projects contributing to:
+
+* Scientific research
+* Computational optimization with societal benefit
+* Open education
+* Environmental or sustainability applications
+
+### Tier β — Neutral (15%)
+
+General-purpose commercial usage including:
+
+* SaaS platforms
+* Business process automation
+* Standard high-performance computing (HPC) workloads
+
+### Tier Ω — High Impact / Risk (30%)
+
+Applications involving:
+
+* Algorithmic financial speculation
+* Mass surveillance systems
+* Social manipulation technologies
+* Military or harmful applications
+
+---
+
+## 3. GENESIS CLAUSE
+
+For projects demonstrating exceptional public utility without profit intent, the Author may grant a written waiver reducing royalties below 8%.
+
+Such waivers are discretionary and must be explicitly confirmed in writing.
+
+---
+
+## 4. APEX CEILING
+
+Under no circumstances shall total royalties exceed **30% of gross revenue** derived from the Software.
+
+---
+
+## 5. ATTRIBUTION & INTEGRITY
+
+### 5.1 Provenance Requirement
+
+Any redistribution, modification, or derivative work must include this License in full.
+
+### 5.2 Mandatory Attribution
+
+All derivative works must explicitly credit:
+
+> “Original Architect: Kilian Diama”
+
+This attribution must appear in:
+
+* Primary documentation
+* Metadata (when applicable)
+* Any public-facing derivative project description
+
+---
+
+## 6. AUDIT RIGHTS
+
+For entities generating more than **$1M annual revenue** using the Software or derivatives thereof, the Author reserves the right to request reasonable proof of Tier classification and compliance.
+
+---
+
+## 7. WARRANTY & LIABILITY
+
+The Software is provided **“AS IS”**, without warranties of any kind.
+
+The Author shall not be held liable for:
+
+* Financial loss
+* System failure
+* Data corruption
+* Unexpected behavior or downstream impacts
+
+Users assume full responsibility for deployment and usage.
+
+---
+
+## 8. CONTACT
+
+For Tier declaration, compliance clarification, or Genesis Clause requests:
+
+📧 [Diamajax@gmail.com](mailto:Diamajax@gmail.com)
+
+---
+
+## 9. FINAL STATEMENT
+
+The Software is a computational catalyst.
+You are responsible for its architecture, deployment, and consequences.
